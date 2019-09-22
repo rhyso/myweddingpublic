@@ -842,6 +842,22 @@ nav.light.scrolled .line-3 {
 .story-4 .image-slider {
   margin-bottom: 30px;
 }
+.story img{
+  padding-right: 30px;
+}
+.story p{
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+
+.story.storyfiller{
+  background-color: lightslategray;
+  min-height: 6px;
+  padding: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 /*!---------- DETAILS ----------*/
 .details-1 {
   padding-bottom: 60px;
@@ -1099,6 +1115,9 @@ nav.light.scrolled .line-3 {
   }
 }
 /*!---------- ACCOMMODATION ----------*/
+.accom p{
+  font-size: 17px;
+}
 .accom-1 h1,
 .accom-1 h2,
 .accom-1 h3,
@@ -1138,7 +1157,7 @@ nav.light.scrolled .line-3 {
   padding-bottom: 60px;
 }
 .accom-2 .feature {
-  margin-bottom: 60px;
+  margin-bottom: 150px;
 }
 .accom-2 h2 {
   margin-bottom: 60px;
@@ -1146,10 +1165,12 @@ nav.light.scrolled .line-3 {
 .accom-2 img {
   display: inline-block;
   margin-bottom: 30px;
+  max-width: 100% !important;
 }
 .accom-2 h6 {
-  color: #75c5b1;
+  color: red;
   margin-bottom: 15px;
+  font-size: 16px!important;
 }
 /*!---------- REGISTRY ----------*/
 .registry-1 h2 {
