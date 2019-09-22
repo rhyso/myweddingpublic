@@ -705,6 +705,11 @@ nav.light.scrolled .line-3 {
   padding: 8px;
 }
 @media all and (max-width: 767px) {
+.header h6{
+  width: auto;
+}
+}
+@media all and (max-width: 767px) {
   .header-1 {
     height: 500px;
   }
@@ -810,7 +815,7 @@ nav.light.scrolled .line-3 {
 }
 @media all and (max-width: 767px) {
   .story-2 img {
-    margin-bottom: 5px;
+    margin-bottom: 40px;
     max-width: 100%;
   }
   .story-2 img:last-child {
@@ -842,8 +847,12 @@ nav.light.scrolled .line-3 {
 .story-4 .image-slider {
   margin-bottom: 30px;
 }
-.story img{
-  padding-right: 30px;
+@media all and (min-width: 767px) {
+
+  .story img {
+    padding-right: 30px;
+    margin-bottom: 100px;
+  }
 }
 .story p{
   font-size: 17px;

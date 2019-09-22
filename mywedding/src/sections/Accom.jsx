@@ -47,14 +47,40 @@ export class Accom extends Component {
                             </a>
                             <h6>The Sands<br/></h6>
                             <p>
-                                LBeach side holiday style apartments. About 10 minute drive to venue.
+                                Leach side holiday style apartments. About 10 minute drive to venue.
                             </p>
                             <p>
                                 <a href="https://escape2thesands.com/holiday-apartments">The Sands </a>
                             </p>
                         </div>
 
+                        <div className="feature col-sm-12">
+                            <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/
+">
+                                <img alt="Hotel" src="img/campsite1.jpg" />
+                            </a>
+                            <h6>Camping or Vans<br/></h6>
+                            <p>
+                                Camping options
+                            </p>
+                            <p>
+                                <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">Camping </a>
+                            </p>
+                        </div>
 
+                        <div className="feature col-sm-12">
+                            <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/
+">
+                                <img alt="Hotel" src="img/crownspa.png" />
+                            </a>
+                            <h6>Crown Spa Hotel<br/></h6>
+                            <p>
+                                Hotel option in Scarbrough
+                            </p>
+                            <p>
+                                <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">Crown Spa hotel </a>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </section>
