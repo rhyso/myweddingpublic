@@ -9,8 +9,7 @@ export class Story extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                            <h2>A serendipitous meeting</h2>
-                            <h6>A little about how we fell in love</h6>
+                            <h2>Our wedding!</h2>
                         </div>
                         <div className="text-center col-sm-12">
                             <img alt="Photo" src="img/kate1.jpg" />
@@ -22,14 +21,11 @@ export class Story extends Component {
 
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <h2> Aw shucks</h2>
                             <p>
-                                I guess you could call this a typical "boy meets girl in bar" story but with a
-                                twist! Boy buys girl a drink, girl gives boy phone number. Two months and
-                                several thousand kilometers later and said boy and girl are head over heels for
-                                each other. Fast forward to today and we're settling down in our first home
-                                ready to tie the knot.
-                                <br/><br/>
-                                Join us on August 6, 2015 as we finally tie the knot!
+                                Thanks to some amazing friends we met by chance in a pub on a Friday night. Both of us were not supposed to be there but changed our minds last minute and as I got back from the bar Rhys had sat in my seat. We started talking and never want to stop. We are so excited to be getting married and to spend the day with our favourite people.
+                                <br/> <br/>
+                                We will be posting some recommendations below for accomodation and there will be further information to follow with our wedding invite. We are here if you have any questions in the meantime and bring on June 2020!
                             </p>
                         </div>
                     </div>

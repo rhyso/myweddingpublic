@@ -22,9 +22,10 @@ class App extends Component {
 
                     <a id="accomm" className="in-page-link"/>
 
-                    <section className="story storyfiller" />
+                    <section className="story storyfiller">
+                    </section>
 
-                   <Accom />
+                    <Accom />
                     <a id="rsvp" className="in-page-link"/>
 
                    <Footer />
