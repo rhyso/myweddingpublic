@@ -29,6 +29,7 @@ class App extends Component {
                     <a id="rsvp" className="in-page-link"/>
 
                    <Footer />
+                    <a id="contact" className="in-page-link"/>
 
                 </div>
 

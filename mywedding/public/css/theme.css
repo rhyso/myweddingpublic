@@ -870,8 +870,6 @@ nav.light.scrolled .line-3 {
   background-color: lightslategray;
   min-height: 6px;
   padding: 0;
-  margin-top: 50px;
-  margin-bottom: 50px;
   color:white;
   line-height: 45px;
   font-size: 17px;
@@ -1195,9 +1193,9 @@ nav.light.scrolled .line-3 {
   max-width: 100% !important;
 }
 .accom-2 h6 {
-  color: red;
+  color: forestgreen;
   margin-bottom: 15px;
-  font-size: 16px!important;
+  font-size: 18px!important;
 }
 
 .accom .accom-description-main{
@@ -1460,8 +1458,16 @@ footer {
   padding: 60px 0;
   background: lightslategray;
 }
-.footer-1 h6 {
+footer-1 h5, .footer-1 h4 {
   color: white;
   font-weight: 400;
-
 }
+
+footer h6 a{
+  color:white
+}
+
+footer h6 a:hover{
+  color:forestgreen;
+}
+
