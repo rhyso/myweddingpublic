@@ -60,7 +60,7 @@ export class Accom extends Component {
                         </div>
 
                         <div className="feature col-sm-12">
-                            <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/
+                            <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">
 ">
                                 <img alt="Hotel" src="img/campsite1.jpg" />
                             </a>
@@ -76,7 +76,7 @@ export class Accom extends Component {
                         </div>
 
                         <div className="feature col-sm-12">
-                            <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/
+                            <a href="https://www.crownspahotel.com">
 ">
                                 <img alt="Hotel" src="img/crownspa.png" />
                             </a>
@@ -85,7 +85,7 @@ export class Accom extends Component {
                                 Historic hotel on the South Bay Esplanade in Scarborough. Lots of room, good deals and a walkable distance into the centre of Scarborough and the lively beach. Approx. 15 minute taxi drive from venue. Incredible views!
                             </p>
                             <p>
-                                <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">Crown Spa hotel </a>
+                                <a href="https://www.crownspahotel.com">Crown Spa hotel </a>
                             </p>
                         </div>
                     </div>
