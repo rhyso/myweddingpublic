@@ -3,6 +3,7 @@ import './App.css';
 import { Nav } from './sections/Nav.jsx';
 import { Header } from './sections/Header.jsx';
 import { Story } from './sections/Story.jsx';
+import { Info } from './sections/Info.jsx';
 import { Accom } from './sections/Accom.jsx';
 import { Footer } from './sections/Footer.jsx';
 
@@ -20,13 +21,15 @@ class App extends Component {
 
                     <Story />
 
-                    <a id="accomm" className="in-page-link"/>
 
-                    <section className="story storyfiller">
-                    </section>
+                    <a id="info" className="in-page-link"/>
+
+                    <Info />
+                    <a id="accomm" className="in-page-link"/>
 
                     <Accom />
                     <a id="rsvp" className="in-page-link"/>
+
 
                    <Footer />
                     <a id="contact" className="in-page-link"/>

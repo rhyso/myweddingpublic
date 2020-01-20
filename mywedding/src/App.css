@@ -438,3 +438,9 @@ a:hover{
 footer .hope-make-it {
   color:white
 }
+
+
+.section-info-dark{
+  background-color: lightslategrey;
+  color:white
+}
