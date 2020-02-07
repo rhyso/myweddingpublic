@@ -5,7 +5,30 @@ export class Info extends Component {
     render() {
         return (
         <Fragment>
+
             <section className="story story-2 info section-info-dark">
+                <div className="container">
+
+                    <div className="row">
+                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <h2>Wedding Venue</h2>
+                            <p>
+                            <p>
+                            <img className="WE-logo" alt="WE" src="img/WE-logo-150x150.png" />
+                            </p>
+                            Wildwood & Eden - The Barn
+                            </p>
+                            <p>
+                            The Barn, Coastal Road,
+                            Burniston Scarborough,
+                            North Yorkshire
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section className="story story-2 info">
                 <div className="container">
 
                     <div className="row">
