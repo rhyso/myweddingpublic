@@ -17,6 +17,7 @@ export class Nav extends Component {
                         <li><a href="#kateandrhys" className="inner-link" target="default">K&R</a></li>
                         <li><a href="#info" className="inner-link" target="default">Guest Info</a></li>
                         <li><a href="#accomm" className="inner-link" target="default">accommodation</a></li>
+                        <li><a href="#rsvp" className="inner-link" target="default">RSVP</a></li>
                         <li><a href="#contact" className="inner-link" target="default">contact</a></li>
 
                     </ul>

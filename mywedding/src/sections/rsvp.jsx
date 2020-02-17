@@ -48,22 +48,19 @@ const RSVP = () => {
         const top = 50 + Math.round(Math.random() * 20) - 10;
 
         const left = 50 + Math.round(Math.random() * 20) - 10;
-      
+
         return {
           top: `${top}%`,
           left: `${left}%`,
           transform: `translate(-${top}%, -${left}%)`,
         };
       }
-      
-   
 
-      
     const validateForm = (e,name) => {
         console.log(names)
         let submission = []
         if(!names || names.length<5){
-            setNameError('Name too long')
+            setNameError('Full name/names please!')
             hasSubmit(false)
         }
         else{
@@ -89,32 +86,52 @@ const RSVP = () => {
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>RSVP</h2>
-                            <p>
-                            <h3>Please RSVP here</h3>
-                            </p>
-                            <p>
+                       
+                            <div id="wufoo-m1tru6as04jg1ii"> Fill out my <a href="https://kateandrhys.wufoo.com/forms/m1tru6as04jg1ii">online form</a>. </div> 
+                    </div>
+                    </div>
+                </div>
+            </section>
+
+        </Fragment>
+
+        )
+    }
+
+export default RSVP
+
+/*
+      <div className={'rsvpForm'}>
                                     <div class="form-group">
-                                        <i class="material-icons">accessibility</i>
-                                        <label for="name">Name</label>
-                                        { nameError && <label for="name">{nameError}</label>}
-                                        <input type="text"  placeholder="Names" 
-                                        onChange={e => setNames(e.target.value )}
-                                        onBlur={e => setNameError("")} />
+                                        <div className="left-panel">
+                                            <label for="name">Name</label>
+                                            <i class="material-icons">accessibility</i>
+                                            { nameError && <label for="name">{nameError}</label>}
+                                        </div>
+                                        <div className="right-panel">
+                                            <input type="text"  placeholder="Names" onChange={e => setNames(e.target.value )}onBlur={e => setNameError("")} />
+                                        </div>
                                     </div>
 
                                     <div class="form-group">
-                                        <i class="material-icons">mail</i>
-                                        <label for="name">Email</label>
-                                        { nameError && <label for="name">{emailError}</label>}
-                                        <input type="text"  placeholder="Email" 
-                                        onChange={e => setEmail(e.target.value )}
-                                        onBlur={e => setEmailError("")} />
+                                        <div className="left-panel">
+                                            <i class="material-icons">mail</i>
+                                            <label for="name">Email</label>
+                                            { nameError && <label for="name">{emailError}</label>}
+                                        </div>
+                                        <div className="right-panel">
+                                            <input type="text"  placeholder="Email" 
+                                            onChange={e => setEmail(e.target.value )}
+                                            onBlur={e => setEmailError("")} />
+                                        </div>
                                     </div>
 
                                     <div class="form-group">
+                                    <div className="left-panel">
                                         <i class="material-icons">done</i>
-                                        <label for="name">Done</label>
-                                        { attend && <label for="name">{attendError}</label>}
+                                            <label for="name">Done</label>
+                                            { attend && <label for="name">{attendError}</label>}
+                                        </div>
                                         <select name="cars"
                                         onChange={e => setAttend(e.target.value )}
                                         onBlur={e => setAttendError("")}>
@@ -137,7 +154,6 @@ const RSVP = () => {
                                     <button disabled={submitted} onClick={() => validateForm()}>
                                         Submit
                                     </button>
-                            </p>
                         </div>
                         <Modal
                             aria-labelledby="simple-modal-title"
@@ -152,13 +168,5 @@ const RSVP = () => {
                             </p>
                             </div>
                         </Modal>
-                    </div>
-                </div>
-            </section>
 
-        </Fragment>
-
-        )
-    }
-
-export default RSVP
+*/
