@@ -14,7 +14,7 @@ export class Story extends Component {
                         <div className="text-center col-sm-12">
                             <img alt="Photo" src="img/kate1.jpg" />
                             <img alt="Photo" src="img/kate2.png" />
-                            <img alt="Photo" src="img/kate3.jpg" />
+                            <img alt="Photo" src="img/kate4.jpg" />
                         </div>
                     </div>
 

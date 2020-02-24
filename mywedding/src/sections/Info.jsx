@@ -6,7 +6,7 @@ export class Info extends Component {
         return (
         <Fragment>
 
-            <section className="story story-2 info section-info-dark">
+            <section className="story story-2 venue-info info section-info-dark">
                 <div className="container">
 
                     <div className="row">
@@ -35,6 +35,42 @@ export class Info extends Component {
 
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <h2>Guest Information</h2>
+                            <p>
+                                - Due to limitations on the size of venue and number of guests, i'm afraid we are unable to accept children
+                                <br/><br/>- Please note the bar is CASH ONLY. So please be prepared for this!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section className="story story-2 info section-info-dark">
+                <div className="container">
+
+                    <div className="row">
+                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <h2>Itnierary</h2>
+                           <p>
+                               <ul>
+                                   <li>a.</li>
+                                   <li>b.</li>
+                                   <li>c.</li>
+                                   <li>d.</li>
+                                   <li>e.</li>
+                               </ul>
+                           </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section className="story story-2 info">
+                <div className="container">
+
+                    <div className="row">
+                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>Travel</h2>
                             <p>
                             Burniston is a small village close to the seaside resort of Scarborough, it is easily accessible by car or train. The train station is located in the center of Scarborough, with a taxi rank next door (Station Taxi's). 
@@ -45,7 +81,7 @@ export class Info extends Component {
                 </div>
             </section>
 
-          <section className="story story-2">
+          <section className="story story-2 section-info-dark">
                 <div className="container">
 
                     <div className="row">
@@ -55,17 +91,7 @@ export class Info extends Component {
                             If coming up by train, you will need to get the train to York and then a connecting train to Scarborough (from York - Scarborough, it takes 45 minutes and they leave every hour) N.B. York is a beautiful Cathedral city - so if you have a chance we definitely recommend taking a couple of hours to visit.
                                 The station is a 10-minute walk into the centre. 
                             </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-
-           <section className="story story-2 section-info-dark">
-                <div className="container">
-
-                    <div className="row">
-                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <br/><br/>
                             <h2>Taxis</h2>
                             <p>
                             Please find a list of taxi companies located in Scarborough, we recommend pre-booking any taxis. 
@@ -82,6 +108,8 @@ export class Info extends Component {
                     </div>
                 </div>
             </section>
+
+
         </Fragment>
 
         )

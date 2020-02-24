@@ -576,3 +576,7 @@ footer{
 footer h6 a{
   color:black
 }
+
+.venue-info img{
+  margin-bottom: 10px;
+}
