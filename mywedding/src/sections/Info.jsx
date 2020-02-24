@@ -14,7 +14,9 @@ export class Info extends Component {
                             <h2>Wedding Venue</h2>
                             <p>
                             <p>
-                            <img className="WE-logo" alt="WE" src="img/WE-logo-150x150.png" />
+                                <a href="https://wildwoodandeden.co.uk/" target="_blank" title="Wildwood and Eden">
+                                    <img className="WE-logo" alt="WE" src="img/WE-logo-150x150.png" />
+                                </a>
                             </p>
                             Wildwood & Eden - The Barn
                             </p>
