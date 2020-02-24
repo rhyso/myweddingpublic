@@ -55,7 +55,7 @@ export class Info extends Component {
                            <p>
                                <ul>
                                    <li><h2>FRIDAY 19th JUNE</h2></li>
-                                   <li>For anyone that wants a little pre-wedding tipple, we recommend The Plough pub in Scalby, they also do great food and snacks.</li>
+                                   <li>For anyone that wants a little pre-wedding tipple, we recommend <a href="www.theploughscalby.co.uk" target="_blank">The Plough</a> pub in Scalby, they also do great food and snacks.</li>
                                    <br/>
                                    <li><h2>SATURDAY 20TH JUNE </h2></li>
                                    <li><h4>11.45am</h4> Please be seated </li>
