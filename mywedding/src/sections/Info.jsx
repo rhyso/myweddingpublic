@@ -37,7 +37,7 @@ export class Info extends Component {
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>Guest Information</h2>
                             <p>
-                                - Due to limitations on the size of our venue, i'm afraid that we are unable to invite children to the wedding. However everyone is welcome at our beach BBQ on the Sunday!    
+                                - Due to limitations on the size of our venue, i'm afraid that we are unable to invite children to the wedding. However everyone is welcome at the beach BBQ on the Sunday!    
                                 <br/><br/>- Please note that our bar is CASH ONLY (it's the 1990's again), so please come prepared! 
                             </p>
                         </div>
@@ -65,7 +65,7 @@ export class Info extends Component {
                                    <li><h4>11pm</h4> Secret Garden Party <br/>Please join us next door (at Kate's family house) to continue the fun! If you are unable to join, please arrange a taxi from the wedding venue by 12pm</li>
                                    <li><h4>2am</h4>  Taxis (Wayside Farm, Coastal Road, Burniston, YO13 0DB)</li><br/>
                                    <li><h2>SUNDAY 21ST JUNE</h2></li>
-                                   <li>We have rented two beach chalets on North Bay Beach for the Sunday (happy Summer Solstice!), so if you have time please join us for a BBQ, beers and beach games from 1.30pm onwards. Nearest place to get taxi's to - The Sands, Peasholm Park, YO12 7TN</li>
+                                   <li>We have rented two beach chalets on North Bay Beach for the Sunday (happy Summer Solstice!), so if you have time, please join us for a BBQ, beers and beach games from 1.30pm onwards. Nearest place to get taxi's to - The Sands, Peasholm Park, YO12 7TN</li>
                                    <li></li>
                                </ul>
                            </p>

@@ -586,3 +586,7 @@ footer h6 a{
   text-align: left;
   line-height: 60px;
 }
+
+.itinerary a{
+  color:black
+}
