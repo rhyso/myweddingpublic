@@ -580,3 +580,9 @@ footer h6 a{
 .venue-info img{
   margin-bottom: 10px;
 }
+
+.itinerary h4{
+  display: inline;
+  text-align: left;
+  line-height: 60px;
+}

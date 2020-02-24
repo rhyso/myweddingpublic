@@ -37,8 +37,8 @@ export class Info extends Component {
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>Guest Information</h2>
                             <p>
-                                - Due to limitations on the size of venue and number of guests, i'm afraid we are unable to accept children
-                                <br/><br/>- Please note the bar is CASH ONLY. So please be prepared for this!
+                                - Due to limitations on the size of our venue, i'm afraid that we are unable to invite children to the wedding. However everyone is welcome at our beach BBQ on the Sunday!    
+                                <br/><br/>- Please note that our bar is CASH ONLY (it's the 1990's again), so please come prepared! 
                             </p>
                         </div>
                     </div>
@@ -46,19 +46,27 @@ export class Info extends Component {
             </section>
 
 
-            <section className="story story-2 info section-info-dark">
+            <section className="story story-2 info itinerary section-info-dark">
                 <div className="container">
 
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
-                            <h2>Itnierary</h2>
+                            <h2>Itinerary</h2>
                            <p>
                                <ul>
-                                   <li>a.</li>
-                                   <li>b.</li>
-                                   <li>c.</li>
-                                   <li>d.</li>
-                                   <li>e.</li>
+                                   <li><h2>FRIDAY 19th JUNE</h2></li>
+                                   <li>For anyone that wants a little pre-wedding tipple, we recommend The Plough pub in Scalby, they also do great food and snacks.</li>
+                                   <br/>
+                                   <li><h2>SATURDAY 20TH JUNE </h2></li>
+                                   <li><h4>11.45am</h4> Please be seated </li>
+                                   <li><h4>12pm noon</h4> We say I do! </li>
+                                   <li><h4>2pm</h4> Let's eat</li>
+                                   <li><h4>5pm</h4> Time to celebrate, let the dancing commence</li>
+                                   <li><h4>11pm</h4> Secret Garden Party <br/>Please join us next door (at Kate's family house) to continue the fun! If you are unable to join, please arrange a taxi from the wedding venue by 12pm</li>
+                                   <li><h4>2am</h4>  Taxis (Wayside Farm, Coastal Road, Burniston, YO13 0DB)</li><br/>
+                                   <li><h2>SUNDAY 21ST JUNE</h2></li>
+                                   <li>We have rented two beach chalets on North Bay Beach for the Sunday (happy Summer Solstice!), so if you have time please join us for a BBQ, beers and beach games from 1.30pm onwards. Nearest place to get taxi's to - The Sands, Peasholm Park, YO12 7TN</li>
+                                   <li></li>
                                </ul>
                            </p>
                         </div>

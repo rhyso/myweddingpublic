@@ -10,7 +10,7 @@ export class Nav extends Component {
 
                 <nav className="nav nav-1 transparent light">
                     <a href="index.html" className="logo">
-                        <span>Rhys & Kate's Wedding</span>
+                        <span>Kate & Rhys' Wedding</span>
                     </a>
                     <ul className="menu">
                         <li><a href="#home" className="inner-link" target="default">home</a></li>

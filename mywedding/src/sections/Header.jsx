@@ -13,7 +13,7 @@ export class Header extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12 text-center">
-                            <h1>RHYS &amp; KATE<br/></h1>
+                            <h1>KATE &amp; RHYS<br/></h1>
                             <h6>June 20th, 2020 - Burniston, North Yorkshire</h6>
                         </div>
                     </div>
