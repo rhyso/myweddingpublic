@@ -590,3 +590,27 @@ footer h6 a{
 .itinerary a{
   color:black
 }
+
+.new-date{
+  border:2px solid red
+}
+
+.update{
+  border-bottom: 30px solid lightslategrey;
+}
+
+.new-date-update{
+  color:red;
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+.inner-link.update-link{
+  color:red!important;
+  font-weight:bold;
+  animation: blinker 1s linear infinite;
+}

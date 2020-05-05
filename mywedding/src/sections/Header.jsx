@@ -14,7 +14,13 @@ export class Header extends Component {
                     <div className="row">
                         <div className="col-sm-12 text-center">
                             <h1>KATE &amp; RHYS<br/></h1>
-                            <h6>June 20th, 2020 - Burniston, North Yorkshire</h6>
+                            <h6><del>June 20th, 2020 - Burniston, North Yorkshire</del></h6>
+                        </div>
+                    </div>
+                    <br/>
+                    <div className="row">
+                        <div className="col-sm-12 text-center">
+                            <h6 className="new-date">June 5th, 2021 - Burniston, North Yorkshire</h6>
                         </div>
                     </div>
                 </div>
