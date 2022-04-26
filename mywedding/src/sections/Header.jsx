@@ -20,9 +20,14 @@ export class Header extends Component {
                     <br/>
                     <div className="row">
                         <div className="col-sm-12 text-center">
-                            <h6 className="new-date">June 5th, 2021 - Burniston, North Yorkshire</h6>
+                            <h6><del>June 5th, 2021 - Burniston, North Yorkshire</del></h6>
                         </div>
                     </div>
+                    <div className="row">
+                        <div className="col-sm-12 text-center">
+                            <h6 className="new-date">Sept 10th, 2022 <br/>Burniston, North Yorkshire</h6>
+                        </div>
+                    </div>                    
                 </div>
             </section>
 

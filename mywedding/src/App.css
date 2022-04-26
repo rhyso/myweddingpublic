@@ -269,6 +269,21 @@ a.camping-content-link {
   background-color: #f8f8f8;
 }
 
+.accom .feature {
+  margin-bottom: 50px;
+}
+.accom h6 {
+  margin-top: 30px;
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+
+.accom p{
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+
 .thanks{
   background-color: #f8f8f8;
 }
@@ -445,6 +460,9 @@ footer .hope-make-it {
   background-color: lightslategrey;
   color:white
 }
+.section-info-dark h2{
+  color:white;
+}
 
 .WE-logo{
 margin-left: 35px;
@@ -571,7 +589,8 @@ h3.form-submitted{
 
 footer{
   background-color: white;
-  color:black
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 footer h6 a{
   color:black
@@ -592,9 +611,18 @@ footer h6 a{
 }
 
 .new-date{
-  border:2px solid red
+  border:4px solid blue;
+  margin-top: 10px!important;
+  font-size: 15px;
 }
 
+.link-to-barn {
+  color: black;
+}
+
+.link-to-barn:hover{
+  color:red
+}
 .update{
   border-bottom: 30px solid lightslategrey;
 }

@@ -5,7 +5,7 @@ export class Accom extends Component {
     render() {
         return (
 
-            <section className="accom accom-2">
+            <section className="accom accom-2s">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12 text-center">

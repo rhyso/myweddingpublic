@@ -13,32 +13,13 @@ export class Info extends Component {
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>Wedding Venue</h2>
                             <p>
-                            <p>
                                 <a href="https://wildwoodandeden.co.uk/" target="_blank" title="Wildwood and Eden">
                                     <img className="WE-logo" alt="WE" src="img/WE-logo-150x150.png" />
-                                </a>
-                            </p>
-                            Wildwood & Eden - The Barn
+                                </a><br/>
+                                <a href="https://wildwoodandeden.co.uk/" target="_blank" className="link-to-barn" title="Wildwood and Eden"> Wildwood and Eden</a>
                             </p>
                             <p>
-                            The Barn, Coastal Road,
-                            Burniston Scarborough,
-                            North Yorkshire
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section className="story story-2 info">
-                <div className="container">
-
-                    <div className="row">
-                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
-                            <h2>Guest Information</h2>
-                            <p>
-                                - Due to limitations on the size of our venue, i'm afraid that we are unable to invite children to the wedding. However everyone is welcome at the beach BBQ on the Sunday!    
-                                <br/><br/>- Please note that our bar is CASH ONLY (it's the 1990's again), so please come prepared! 
+                            Flatts Farm, Coastal Road, Burniston, Scarborough, YO13 0HR
                             </p>
                         </div>
                     </div>
@@ -46,7 +27,7 @@ export class Info extends Component {
             </section>
 
 
-            <section className="story story-2 info itinerary section-info-dark">
+            <section className="story story-2 info itinerary">
                 <div className="container">
 
                     <div className="row">
@@ -54,21 +35,36 @@ export class Info extends Component {
                             <h2>Itinerary</h2>
                            <p>
                                <ul>
-                                   <li><h2>FRIDAY 19th JUNE</h2></li>
+                                   <li><h2>FRIDAY 9TH SEPT</h2></li>
                                    <li>For anyone that wants a little pre-wedding tipple, we recommend <a href="www.theploughscalby.co.uk" target="_blank">The Plough</a> pub in Scalby, they also do great food and snacks.</li>
                                    <br/>
-                                   <li><h2>SATURDAY 20TH JUNE </h2></li>
-                                   <li><h4>11.45am</h4> Please be seated </li>
-                                   <li><h4>12pm noon</h4> We say I do! </li>
-                                   <li><h4>2pm</h4> Let's eat</li>
-                                   <li><h4>5pm</h4> Time to celebrate, let the dancing commence</li>
-                                   <li><h4>11pm</h4> Secret Garden Party <br/>Please join us next door (at Kate's family house) to continue the fun! If you are unable to join, please arrange a taxi from the wedding venue by 12pm</li>
-                                   <li><h4>2am</h4>  Taxis (Wayside Farm, Coastal Road, Burniston, YO13 0DB)</li><br/>
-                                   <li><h2>SUNDAY 21ST JUNE</h2></li>
-                                   <li>We have rented two beach chalets on North Bay Beach for the Sunday (happy Summer Solstice!), so if you have time, please join us for a BBQ, beers and beach games from 1.30pm onwards. Nearest place to get taxi's to - The Sands, Peasholm Park, YO12 7TN</li>
+                                   <li><h2>SATURDAY 10TH SEPT </h2></li>
+                                   <li><h4>1pm</h4> Please be seated </li>
+                                   <li><h4>1:30pm</h4> We say I do! </li>
+                                   <li><h4>3pm</h4> Let's eat</li>
+                                   <li><h4>6pm</h4> Time to celebrate, let the dancing commence</li>
+                                   <li><h4>11pm</h4> Secret Garden Party <br/>Please join us next door for the wedding after party at Kate’s family home, where the festivities will continue. The house is short two minute walk away and we will head back as a group after the music finishes. If you would prefer to go home at this point, please arrange a taxi from the wedding venue (Flatt’s Farm (The Barn), Coastal Road, YO13 OHR), to pick you up no later then 11.30pm</li>
+                                   <li><h4>1-2am</h4> Home time -  Taxis Please pre-order a taxi, after party address: Wayside Farm, Coastal Road, Burniston, YO13 0DB</li><br/>
+                                   <li><h2>SUNDAY 11TH SEPT</h2></li>
+                                   <li>On Sunday we will be having a BBQ at Kate’s family home from 1pm onwards, we would love for you to join us (all children, partners invited) and the address is as above </li>
                                    <li></li>
                                </ul>
                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section className="story story-2 info section-info-dark">
+                <div className="container">
+
+                    <div className="row">
+                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <h2>Guest Information</h2>
+                            <p>
+                                - Due to limitations on the size of our venue, unfortunately we are unable to invite children outside of the wedding party. However everyone is invited to the Sunday BBQ at Kate’s house!   
+                                <br/><br/>- Please note that our bar is CASH ONLY (it's the 1990's again), so please come prepared! 
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -97,12 +93,12 @@ export class Info extends Component {
                             <h2>Train</h2>
                             <p>
                             If coming up by train, you will need to get the train to York and then a connecting train to Scarborough (from York - Scarborough, it takes 45 minutes and they leave every hour) N.B. York is a beautiful Cathedral city - so if you have a chance we definitely recommend taking a couple of hours to visit.
-                                The station is a 10-minute walk into the centre. 
+                            From the train station, it is just a short 10 minute walk into the city centre, where you will find lots of shops, restaurants and bars 
                             </p>
                             <br/><br/>
                             <h2>Taxis</h2>
                             <p>
-                            Please find a list of taxi companies located in Scarborough, we recommend pre-booking any taxis. 
+                            Please find a list of taxi companies located in Scarborough. We definitely recommend pre-booking any taxi’s 
                             </p>
                             <p>
                                 <ul>
@@ -112,6 +108,9 @@ export class Info extends Component {
                                     <li>Boro: 01723 361111</li>
                                 </ul>
                             </p>
+                            <br/><br/>
+                            <h2>Car</h2>
+                            <p>If you are driving on the wedding day, there is parking at the wedding venue where you can also leave your car over night. </p>
                         </div>
                     </div>
                 </div>

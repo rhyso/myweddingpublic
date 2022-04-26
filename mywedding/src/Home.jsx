@@ -19,10 +19,6 @@ class App extends Component {
                 <div className="main-container">
 
                     <Header />
-
-                    <a id="update" className="in-page-link"/>
-
-                    <Update />
                     
                     <a id="kateandrhys" className="in-page-link"></a>
 

@@ -86,6 +86,7 @@ const RSVP = () => {
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>RSVP</h2>
+                            <p><b>Please RSVP by 1st June</b></p><br/><br/>
                        
                             <div id="wufoo-m1tru6as04jg1ii"> Fill out my <a href="https://kateandrhys.wufoo.com/forms/m1tru6as04jg1ii">online form</a>. </div> 
                     </div>
