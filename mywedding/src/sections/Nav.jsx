@@ -14,7 +14,6 @@ export class Nav extends Component {
                     </a>
                     <ul className="menu">
                         <li><a href="#home" className="inner-link" target="default">home</a></li>
-                        <li><a href="#update" className="inner-link update-link" target="default">Update</a></li>
                         <li><a href="#kateandrhys" className="inner-link" target="default">K&R</a></li>
                         <li><a href="#info" className="inner-link" target="default">Guest Info</a></li>
                         <li><a href="#accomm" className="inner-link" target="default">accommodation</a></li>
