@@ -61,14 +61,14 @@ export class Accom extends Component {
 
                         <div className="feature col-sm-12">
                             <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">
-">
+
                                 <img alt="Hotel" src="img/campsite1.jpg" />
                             </a>
                             <h6>Scarborough Camping & Caravanning Club<br/></h6>
                             <p>
                                 Great campsite for motorhomes and tents very close to the venue (5 minute drive).
                                 <br/>They also have static glamping tents to rent that sleep up to 6 people.
-                                <br/>>Booking starts from January onwards. Showers etc on site and large pub next door.
+                                <br/>Booking starts from January onwards. Showers etc on site and large pub next door.
                             </p>
                             <p>
                                 <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">Camping Website </a>
@@ -77,7 +77,6 @@ export class Accom extends Component {
 
                         <div className="feature col-sm-12">
                             <a href="https://www.premierinn.com/gb/en/hotels/england/north-yorkshire/scarborough/scarborough-north-bay.html">
-">
                                 <img alt="Hotel" src="img/prem-inn.jpg" />
                             </a>
                             <h6>Premier Inn - North Bay<br/></h6>
