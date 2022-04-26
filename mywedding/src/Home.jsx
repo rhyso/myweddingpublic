@@ -24,7 +24,6 @@ class App extends Component {
 
                     <Story />
 
-
                     <a id="info" className="in-page-link"/>
 
                     <Info />
