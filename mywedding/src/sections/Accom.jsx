@@ -27,7 +27,7 @@ export class Accom extends Component {
                             </p>
                             <p>
                                 <a href="http://duchyoflancasterholidaycottages.co.uk/cottage/scalby-lodge.php">
-                                Duchy Of Lancaster Cottages
+                                Duchy Of Lancaster Cottages Website
                             </a>
                             </p>
                         </div>
@@ -55,7 +55,7 @@ export class Accom extends Component {
                                 They have different sized apartments available, beautiful location to enjoy the sea and around a 10 minute drive to the venue.
                             </p>
                             <p>
-                                <a href="https://escape2thesands.com/holiday-apartments">The Sands </a>
+                                <a href="https://escape2thesands.com/holiday-apartments">The Sands website </a>
                             </p>
                         </div>
 
@@ -71,7 +71,21 @@ export class Accom extends Component {
                                 <br/>>Booking starts from January onwards. Showers etc on site and large pub next door.
                             </p>
                             <p>
-                                <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">Camping </a>
+                                <a href="https://www.campingandcaravanningclub.co.uk/campsites/uk/north-yorkshire/scarborough/scarborough-camping-and-caravanning-club-site/">Camping Website </a>
+                            </p>
+                        </div>
+
+                        <div className="feature col-sm-12">
+                            <a href="https://www.premierinn.com/gb/en/hotels/england/north-yorkshire/scarborough/scarborough-north-bay.html">
+">
+                                <img alt="Hotel" src="img/prem-inn.jpg" />
+                            </a>
+                            <h6>Premier Inn - North Bay<br/></h6>
+                            <p>
+                                New hotel close to Scarborough Beach and about a 5 minute drive to the wedding venue. 
+                            </p>
+                            <p>
+                                <a href="https://www.premierinn.com/gb/en/hotels/england/north-yorkshire/scarborough/scarborough-north-bay.html">Premier Inn North bay website </a>
                             </p>
                         </div>
 
@@ -85,7 +99,7 @@ export class Accom extends Component {
                                 Historic hotel on the South Bay Esplanade in Scarborough. Lots of room, good deals and a walkable distance into the centre of Scarborough and the lively beach. Approx. 15 minute taxi drive from venue. Incredible views!
                             </p>
                             <p>
-                                <a href="https://www.crownspahotel.com">Crown Spa hotel </a>
+                                <a href="https://www.crownspahotel.com">Crown Spa hotel website </a>
                             </p>
                         </div>
                     </div>
