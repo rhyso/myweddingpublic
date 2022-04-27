@@ -455,6 +455,13 @@ footer .hope-make-it {
   color:black
 }
 
+.aw-shucks{
+  text-align: justify;
+}
+
+.aw-shucks h2{
+  text-align: center;
+}
 
 .section-info-dark{
   background-color: lightslategrey;
@@ -611,7 +618,7 @@ footer h6 a{
 }
 
 .new-date{
-  border:4px solid blue;
+  border:4px solid skyblue;
   margin-top: 10px!important;
   font-size: 15px;
 }

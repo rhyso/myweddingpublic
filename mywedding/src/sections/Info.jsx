@@ -16,10 +16,11 @@ export class Info extends Component {
                                 <a href="https://wildwoodandeden.co.uk/" target="_blank" title="Wildwood and Eden">
                                     <img className="WE-logo" alt="WE" src="img/WE-logo-150x150.png" />
                                 </a><br/>
-                                <a href="https://wildwoodandeden.co.uk/" target="_blank" className="link-to-barn" title="Wildwood and Eden"> Wildwood and Eden</a>
+                                Website Link: <a href="https://wildwoodandeden.co.uk/" target="_blank" className="link-to-barn" title="Wildwood and Eden"> Wildwood and Eden</a>
                             </p>
                             <p>
-                            Flatts Farm, Coastal Road, Burniston, Scarborough, YO13 0HR
+                            Flatts Farm, Coastal Road, Burniston, Scarborough, YO13 0HR<br/><br/>
+                            Phone: 0800 644 4196
                             </p>
                         </div>
                     </div>
@@ -36,13 +37,13 @@ export class Info extends Component {
                            <p>
                                <ul>
                                    <li><h2>FRIDAY 9TH SEPT</h2></li>
-                                   <li>For anyone that wants a little pre-wedding tipple, we recommend <a href="www.theploughscalby.co.uk" target="_blank">The Plough</a> pub in Scalby, they also do great food and snacks.</li>
+                                   <li>For anyone that wants a little pre-wedding tipple, we recommend <a href="https://www.theploughscalby.co.uk" target="_blank">The Plough</a> pub in Scalby, they also do great food.</li>
                                    <br/>
                                    <li><h2>SATURDAY 10TH SEPT </h2></li>
                                    <li><h4>1pm</h4> Please be seated </li>
                                    <li><h4>1:30pm</h4> We say I do! </li>
                                    <li><h4>3pm</h4> Let's eat</li>
-                                   <li><h4>6pm</h4> Time to celebrate, let the dancing commence</li>
+                                   <li><h4>6pm</h4> Let's celebrate & let the dancing commence </li>
                                    <li><h4>11pm</h4> Secret Garden Party <br/>Please join us next door for the wedding after party at Kate’s family home, where the festivities will continue. The house is short two minute walk away and we will head back as a group after the music finishes. If you would prefer to go home at this point, please arrange a taxi from the wedding venue (Flatt’s Farm (The Barn), Coastal Road, YO13 OHR), to pick you up no later then 11.30pm</li>
                                    <li><h4>1-2am</h4> Home time -  Taxis Please pre-order a taxi, after party address: Wayside Farm, Coastal Road, Burniston, YO13 0DB</li><br/>
                                    <li><h2>SUNDAY 11TH SEPT</h2></li>
@@ -62,8 +63,12 @@ export class Info extends Component {
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>Guest Information</h2>
                             <p>
-                                - Due to limitations on the size of our venue, unfortunately we are unable to invite children outside of the wedding party. However everyone is invited to the Sunday BBQ at Kate’s house!   
-                                <br/><br/>- Please note that our bar is CASH ONLY (it's the 1990's again), so please come prepared! 
+                                -  Due size limitations of our venue, aside from babes in arms, unfortunately we are unable to invite children to the  wedding day, outside of the wedding party. However everyone is invited to the Sunday BBQ at Kate’s house! 
+                                <br/><br/>- Please note that our bar is CASH ONLY (it's the 1990's again), so please come prepared! <br/><br/>
+                                <p>The nearest cashpoints are located below: <br/><br/>
+
+                                    - Tesco Express, 83-85 Burniston Rd, Scarborough YO12 6PH<br/>
+                                    - Proudfoots, 401 Scalby Rd, Newby, Scarborough YO12 6TQ</p>
                             </p>
                         </div>
                     </div>
@@ -96,7 +101,7 @@ export class Info extends Component {
                             From the train station, it is just a short 10 minute walk into the city centre, where you will find lots of shops, restaurants and bars 
                             </p>
                             <br/><br/>
-                            <h2>Taxis</h2>
+                            <h2>Taxis</h2><br/>
                             <p>
                             Please find a list of taxi companies located in Scarborough. We definitely recommend pre-booking any taxi’s 
                             </p>

@@ -20,7 +20,7 @@ export class Story extends Component {
 
 
                     <div className="row">
-                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                        <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center aw-shucks">
                             <h2> Aw shucks</h2>
                             <p>
                             After eight years, two rescheduled weddings and a baby, we are finally 
@@ -30,7 +30,7 @@ export class Story extends Component {
                                 and for me a classic solo cinema trip. 
                                 Luckily, something in the air that night made us get our acts together and the rest is history. </p>
                             <p>Now after a global pandemic, it is finally time to party and make this thing legal. 
-                                Below you will find some recommendations for accommodation, travel along with the wedding day and weekend itinerary. 
+                                Below you will find some recommendations for accommodation and travel along with the wedding day and weekend itinerary. 
                                 </p>
                             <p>Big love and bring on September!</p>
                             
