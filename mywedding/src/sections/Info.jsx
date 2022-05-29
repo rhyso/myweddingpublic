@@ -13,10 +13,10 @@ export class Info extends Component {
                         <div className="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
                             <h2>Wedding Venue</h2>
                             <p>
-                                <a href="https://wildwoodandeden.co.uk/" target="_blank" title="Wildwood and Eden">
+                                <a href="https://wildwoodandeden.co.uk/" target="_blank" title="Wildwood and Eden" rel="noreferrer">
                                     <img className="WE-logo" alt="WE" src="img/WE-logo-150x150.png" />
                                 </a><br/>
-                                Website Link: <a href="https://wildwoodandeden.co.uk/" target="_blank" className="link-to-barn" title="Wildwood and Eden"> Wildwood and Eden</a>
+                                Website Link: <a href="https://wildwoodandeden.co.uk/" target="_blank" className="link-to-barn" title="Wildwood and Eden" rel="noreferrer"> Wildwood and Eden</a>
                             </p>
                             <p>
                             Flatts Farm, Coastal Road, Burniston, Scarborough, YO13 0HR<br/><br/>
@@ -37,14 +37,14 @@ export class Info extends Component {
                            <p>
                                <ul>
                                    <li><h2>FRIDAY 9TH SEPT</h2></li>
-                                   <li>For anyone that wants a little pre-wedding tipple, we recommend <a href="https://www.theploughscalby.co.uk" target="_blank">The Plough</a> pub in Scalby, they also do great food.</li>
+                                   <li>For anyone that wants a little pre-wedding tipple, we recommend <a href="https://www.theploughscalby.co.uk" target="_blank" rel="noreferrer">The Plough</a> pub in Scalby, they also do great food.</li>
                                    <br/>
                                    <li><h2>SATURDAY 10TH SEPT </h2></li>
-                                   <li><h4>1pm</h4> Please be seated </li>
+                                   <li><h4>12:30pm</h4> Please be seated </li>
                                    <li><h4>1:30pm</h4> We say I do! </li>
                                    <li><h4>3pm</h4> Let's eat</li>
                                    <li><h4>6pm</h4> Let's celebrate & let the dancing commence </li>
-                                   <li><h4>11pm</h4> Secret Garden Party <br/>Please join us next door for the wedding after party at Kate’s family home, where the festivities will continue. The house is short two minute walk away and we will head back as a group after the music finishes. If you would prefer to go home at this point, please arrange a taxi from the wedding venue (Flatt’s Farm (The Barn), Coastal Road, YO13 OHR), to pick you up no later then 11.30pm</li>
+                                   <li><h4>11pm</h4> Secret Garden Party <br/>Please join us next door for the wedding after party at Kate’s family home, where the festivities will continue. The house is a short two minute walk away and we will head back as a group after the music finishes. If you would prefer to go home at this point, please arrange a taxi from the wedding venue (Flatt’s Farm (The Barn), Coastal Road, YO13 OHR), to pick you up no later then 11.30pm</li>
                                    <li><h4>1-2am</h4> Home time -  Taxis Please pre-order a taxi, after party address: Wayside Farm, Coastal Road, Burniston, YO13 0DB</li><br/>
                                    <li><h2>SUNDAY 11TH SEPT</h2></li>
                                    <li>On Sunday we will be having a BBQ at Kate’s family home from 1pm onwards, we would love for you to join us (all children, partners invited) and the address is as above </li>
