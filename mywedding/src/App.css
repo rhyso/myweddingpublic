@@ -649,3 +649,16 @@ footer h6 a{
   font-weight:bold;
   animation: blinker 1s linear infinite;
 }
+.small-section{
+  padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+
+.timer{
+  color: red
+}
+
+.white-text{
+  color: white;
+}

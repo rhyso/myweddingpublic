@@ -4,7 +4,7 @@ import { Nav } from './sections/Nav.jsx';
 import { Header } from './sections/Header.jsx';
 import { Story } from './sections/Story.jsx';
 import { Info } from './sections/Info.jsx';
-import { Update } from './sections/Update.jsx';
+import { LateInfo } from './sections/late-info.jsx';
 
 import { Accom } from './sections/Accom.jsx';
 import RSVP from './sections/rsvp.jsx';
@@ -20,6 +20,9 @@ class App extends Component {
 
                     <Header />
                     
+                    <a id="gifts" className="in-page-link"></a>
+                    <LateInfo/>
+
                     <a id="kateandrhys" className="in-page-link"></a>
 
                     <Story />

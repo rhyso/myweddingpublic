@@ -15,10 +15,10 @@ export class Nav extends Component {
                     <ul className="menu">
                         <li><a href="#home" className="inner-link" target="default">home</a></li>
                         <li><a href="#kateandrhys" className="inner-link" target="default">K&R</a></li>
+                        <li><a href="#gifts" className="inner-link" target="default">Gifts</a></li>
                         <li><a href="#info" className="inner-link" target="default">Guest Info</a></li>
-                        <li><a href="#accomm" className="inner-link" target="default">accommodation</a></li>
+                        <li><a href="#accomm" className="inner-link" target="default">Accom</a></li>
                         <li><a href="#rsvp" className="inner-link" target="default">RSVP</a></li>
-                        <li><a href="#contact" className="inner-link" target="default">contact</a></li>
 
                     </ul>
                     <div className="mobile-toggle">
